@@ -1,0 +1,5 @@
+../Core/Src/DEV_Config.c:37:6:DEV_Set_I2CAddress	16	static
+../Core/Src/DEV_Config.c:46:6:DEV_I2C_WriteByte	40	static
+../Core/Src/DEV_Config.c:53:6:DEV_I2C_WriteWord	40	static
+../Core/Src/DEV_Config.c:61:7:DEV_I2C_ReadByte	40	static
+../Core/Src/DEV_Config.c:69:7:DEV_I2C_ReadWord	40	static
